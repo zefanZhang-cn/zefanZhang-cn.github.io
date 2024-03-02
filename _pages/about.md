@@ -15,4 +15,4 @@ Feel free to explore, connect, and engage with me on topics related to my resear
 
 Thank you for visiting my homepage, and I hope you find my work insightful and inspiring!
 
-[Email]()  /  [Github]()  /  [Wechat](../image/wechat.png)
+[Email](zefan23@mails.jlu.edu.cn)  /  [Github](https://github.com/zefanZhang-cn)  /  [Wechat](../image/wechat.png)
