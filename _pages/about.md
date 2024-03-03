@@ -18,7 +18,7 @@ My research interests include visual dialog, video question answering, medical v
 
 ## Research Experience
 
-During the period of 2022.11-2023.2, I interned at Microsoft Research Asia (MSRA) advised by Huaying Xue. My main research focus is accent conversion.
+During the period of 2022.11-2023.2, I interned at Microsoft Research Asia (MSRA) advised by Huaying Xue. My main research content is accent conversion.
 
 ## Publications
 
