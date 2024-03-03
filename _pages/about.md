@@ -14,7 +14,7 @@ Welcome to my homepage! My name is Zefan Zhang, and I am a Ph.D. student in Comp
 
 ## Research Interests
 
-My research interests include visual dialog, video question answering, medical visual question answering, and multimodal relation extraction. My research focuses on the multimodal relation interaction and multimodal event relation reasoning. Furthermore, I am also interested in research on the applications of deep learning in various scenarios, such as the legal and judicial domains.
+My research interests include **visual dialog**, **video question answering**, **medical visual question answering**, and **multimodal relation extraction**. My research focuses on the **multimodal relation interaction** and **multimodal event relation reasoning**. Furthermore, I am also interested in research on the applications of deep learning in various scenarios, such as the legal and judicial domains.
 
 ## Research Experience
 
