@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## A Short Introduction
+## Introduction
 
 Welcome to my homepage! My name is Zefan Zhang, and I am a Ph.D. student in Computer Science advised by [Prof. Tian Bai](https://ccst.jlu.edu.cn/info/1026/17630.htm) at Jilin University since 2023. Before that, I received my Master's Degree from Soochow University in 2023, supervised by [Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm) and [Prof. Chunping Liu](https://scst.suda.edu.cn/f5/ff/c30505a521727/page.htm). I received my Bachelor's Degree from Zhejiang University of Technology in 2020.
 
