@@ -11,7 +11,7 @@ locale                   : "cn-China"
 title                    : "Zefan Zhang's Personal Homepage"
 title_separator          : "-"
 name                     : "Zefan Zhang"
-description              : &description "personal description"
+description              : "A Ph.D. student focuses on **multimodal learning**."
 url                      : https://zefanzhang-cn.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zefanZhang-cn/zefanZhang-cn.github.io"
