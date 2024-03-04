@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "cn-China"
-title                    : "Zefan Zhang / Homepage"
+title                    : "Homepage / Zefan Zhang"
 title_separator          : "-"
 name                     : "Zefan Zhang"
 description              : "A Ph.D. student focuses on **multimodal learning**."
@@ -24,7 +24,7 @@ author:
   avatar           : "me2.png"
   name             : "Zefan Zhang (张泽帆)"
   pronouns         : "He/His"  
-  bio              : "I am a Ph.D. student in Computer Science and I am focusing on Multimodal Learning for building intelligent computer models that can reason the complex world."
+  bio              : "I am a Ph.D. student in Computer Science and I am focusing on Multimodal Learning."
   location         : "Changchun City, Jilin Province, China"
   employer         : "Jilin University"
   uri              : # URL
