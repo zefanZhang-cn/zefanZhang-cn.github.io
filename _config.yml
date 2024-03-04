@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "cn-China"
+locale                   : "China"
 title                    : "Homepage / Zefan Zhang"
 title_separator          : "-"
 name                     : "Zefan Zhang"
