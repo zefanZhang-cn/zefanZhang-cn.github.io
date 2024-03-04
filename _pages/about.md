@@ -14,7 +14,7 @@ Welcome to my homepage! My name is Zefan Zhang, and I am a Ph.D. student in Comp
 
 ## Research Interests
 
-My research interests include **visual dialog**, **video question answering**, **medical visual question answering**, and **multimodal relation extraction**. My research focuses on the **multimodal relation interaction** and **multimodal event relation reasoning**. Furthermore, I am also interested in research on the applications of deep learning in various scenarios, such as the legal and judicial fields.
+My research interests include **visual dialog**, **video question answering**, **medical visual question answering**, and **multimodal relation extraction**. My research focuses on the **multimodal relation interaction** and **multimodal event relation reasoning** for building intelligent computer models that can reason the complex world. Furthermore, I am also interested in research on the applications of deep learning in various scenarios, such as the legal and judicial fields.  
 
 ## Research Experience
 
@@ -41,6 +41,8 @@ Zhang Z, Jiang T, Liu C, et al. Coupling Attention and Convolution for Heuristic
 Zhang Z, Li S, Ji Y, et al. Infer unseen from seen: Relation regularized zero-shot visual dialog[J]. Journal of Visual Communication and Image Representation, 2023, 97: 103961.  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320323002110)
 
 Zhang Z, Jiang T, Liu C, et al. Multi-aware coreference relation network for visual dialog[J]. International Journal of Multimedia Information Retrieval, 2022, 11(4): 567-576.  [Paper](https://link.springer.com/article/10.1007/s13735-022-00257-2)
+
+## Others
 
 Feel free to explore, connect, and engage with me on topics related to my research. I look forward to exchanging ideas and collaborating with like-minded individuals who share my enthusiasm for pushing the boundaries of technological advancement.
 
