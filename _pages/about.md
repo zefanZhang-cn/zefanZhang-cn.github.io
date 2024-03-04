@@ -44,13 +44,6 @@ Zhang Z, Jiang T, Liu C, et al. Multi-aware coreference relation network for vis
 
 ## Others
 
-Feel free to explore, connect, and engage with me on topics related to my research. I look forward to exchanging ideas and collaborating with like-minded individuals who share my enthusiasm for pushing the boundaries of technological advancement.
+Feel free to explore, connect, and engage with me on topics related to my research. I look forward to exchanging ideas and collaborating with like-minded individuals who share my enthusiasm for pushing the boundaries of technological advancement. Thank you for visiting my homepage, and I hope you find my work insightful and inspiring!
 
 
-
-
----
-
-Thank you for visiting my homepage, and I hope you find my work insightful and inspiring!
-
-[Email](zefan23@mails.jlu.edu.cn)  /  [Github](https://github.com/zefanZhang-cn)  /  [Wechat](../image/wechat.png)
