@@ -9,11 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+  
+Information
+======
+* Contact Number: (86)15868831874
+* Wechat: 15868831874
+* Mailing Address: 2699 Qianjin Street, Shuangde Street, Chaoyang District, Changchun City, Jilin Province, China Jilin University South Campus.
+
 Education
 ======
 * Ph.D. in Changchun, Jilin University, 2023-now
-* M.S. in Suzhou, Soochow University, 2020-2023
-* B.S. in Hangzhou, Zhejiang University of Technology, 2016-2020
+* M.S. in Suzhou, Soochow University, 2020-2023. GPA: Top 30%, awarded the first-class scholarship.
+* B.S. in Hangzhou, Zhejiang University of Technology, 2016-2020. GPA: Top 30%, awarded the second-class scholarship many times. CET-6: 524.
+
+
 
 Work experience
 ======
@@ -22,10 +31,7 @@ Work experience
   * Mentor: Huaying Xue
 
 
-  
-Skills
-======
-* Python
+
 
 
 Publications
